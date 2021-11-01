@@ -2,21 +2,19 @@
 
 ![](./images/OrangeLine.png)
 
-## Woche 0: Der Circle gründet sich (to be changed!)
+## Woche 0: Der Circle gründet sich
 
 Im ersten Treffen finden sich die Menschen, die diese Reise gemeinsam
 unternehmen wollen. Die Agenda:
 
--   **Check-in:** Herzlich willkommen! *(5 Minuten)*
--   **Austausch / Reflexion:** in der Gruppe *(10 Minuten)*
--   **Thema:** Grundlagen und Fragen? *(25 Minuten)*
--   **Übung:** Meine Wünsche für die Reise *(25 Minuten)*
--   **Erfahrungsaustausch** Wie ging es Dir in der Übung *(10 Minuten)*
--   **Was nehme ich mir vor:** gemeinsame Planung *(10 Minuten)*
+-   **Check-in:** Ankommen *(30 Minuten)*
+-   **Thema:** Grundlagen und Fragen? *(5 Minuten)*
+-   **Erwartungen**  *(10 Minuten)*
+-   **Was nehme ich mir vor**  *(5 Minuten)*
 -   **Check-out:** Das nächste Treffen bestätigen. *(5 Minuten)*
 -   **Bild / Zitat der Woche** und **weiterführende Links**
 
-### Check-In: Ankommen *(5 Minuten)*
+### Check-In: Ankommen *(30 Minuten)*
 
 Der Check-in ist ein hilfreiches Ritual, sich auf die Gruppe und das
 Thema der Woche einzustimmen und die sonstigen Tagesthemen beiseite zu
@@ -24,22 +22,13 @@ legen. Teile mit Deinen Peers zur Einstimmung mit, was Dich bewegt,
 z.B.:
 
 -   Nenne der Gruppe Deinen Namen.
-
--   Wie geht es Dir gerade? Was ist dein vorherrschendes Gefühl?
+-   Wie geht es Dir gerade? Beschreibe das gern mit einer Farbe. 
+-   Was führt Dich zu dieser Lernreise? Welche Erwartungen / Vorstellungen hast Du?
+-   Magst Du noch etwas Persönliches teilen (vielleicht sogar etwas, was Du normalerweise nicht in einer Vorstellungsrunde sagst)?
 
 Weniger ist mehr. Es geht erstmal um das Ankommen.
 
-### Austausch / Reflexion *(10 Minuten)*
-
--   Was führt Dich zu dieser Lernreise?
-
--   Magst Du noch etwas Persönliches teilen (vielleicht sogar etwas, was
-    Du normalerweise nicht in einer Vorstellungsrunde sagst)?
-
-Versuche, Deinen Beitrag auf wenige Sätze zu beschränken,obwohl es
-vielleicht noch so viel zu sagen gäbe … Dazu gibt es noch Gelegenheit
-
-### Thema: Grundlagen und Fragen? *(25 Minuten)*
+### Thema: Grundlagen und Fragen? *(5 Minuten)*
 
 Geht nochmal kurz die [Grundlagen im
 Leitfaden](2-_-lernOS-Grundlagen.md) durch oder tauscht Euch darüber aus.
@@ -53,95 +42,36 @@ Treffen einlesen und den “Weiterführenden Links” folgen.
 
 Organisatorische Tipps:
 
--   Die Agenda der wöchentlichen Treffen ist so ausgelegt, dass **eine
-    Stunde** ausreichend sein sollte. Orientiert euch an der
-    vorgeschlagenen Dauer der einzelnen Punkte, so dass noch Zeit ist
-    für die wertvollen Elemente am Ende (Erfahrungsaustausch, Was nehme
-    ich mir vor, Check-Out).  
-    Falls ihr spürt, dass ihr ihr mehr Zeit braucht, z. B. wenn ihr zu
-    sechst seid, dann verlängert den Termin.
-
--   Vereinbart eine Terminserie. Am Besten gleich mit ein paar
-    “Reserve-Wochen”, falls mal ein Termin ausfallen sollte.
-
--   Vereinbart, wie ihr zwischen den Terminen miteinander kommunizieren
-    wollt. Hier findet ihr [Anregungen zu
-    Tools](2-2-lernOS-Circle.md).
-
--   Wie wollt ihr mit Abwesenheiten (z. B. Urlaub) und spontanen
-    Ereignissen umgehen. Den Termin ausfallen lassen, sobald einer
-    fehlt?  
-    Tipp für virtuelle Treffen: das Meeting aufzeichnen.
-
--   Wollt ihr euch an den Ablauf halten und in 13 Wochen durch sein?
-    Oder mal eine “Sonder-Woche” einschieben, wenn sich ein spannendes
-    Thema ergeben sollte?
-
--   Es ist völlig ok, wenn nicht alle Fragen vollständig beantwortet
-    sind … vieles wird sich ganz von selbst aus der Dynamik des Circles
-    ergeben und klären.
-
--   Bleib dran, auch wenn Du mal weniger Zeit haben solltest als Du Dir
-    das wünschst. Lieber weniger als gar nicht! Auch das ist
-    Achtsamkeit!
+-   Findet jede Woche eine:n Moderator:in und führt durch das Circle-Treffen.
+-   Die Agenda der wöchentlichen Treffen ist so ausgelegt, dass **eine Stunde** ausreichend sein sollte. Orientiert euch an der vorgeschlagenen Dauer der einzelnen Punkte
+-   Vereinbart eine Terminserie in Outlook. 
+-   Kommuniziert über den privaten Kanal eurer Gruppe (1-3) im Teams Space *Road to Happiness*.
+-   Bleib dran, auch wenn Du mal weniger Zeit haben solltest, als Du Dir das wünschst. Lieber weniger als gar nicht! Auch das ist Achtsamkeit!
 
 Verständigt euch mindestens über:
 
 -   Wann treffen wir uns zur “Woche 1”?
 
--   Wer übernimmt den “Facilitator” für die Woche 1?
+-   Wer übernimmt die Moderation für die Woche 1?
 
 **Tipp:** Wenn ihr virtuelle Online-Meetings machen wollt, dann sollten
 möglichst alle Menschen virtuell teilnehmen sein. Es fühlt sich im
 allgemeinen nicht gut an, wenn einer oder zwei “nur” virtuell da sind,
 während die anderen physisch in einem Raum sind.
 
-### Übung: Meine Vorstellungen und Wünsche für diese Reise *(25 Minuten)*
-
-Ein guter Start ist, sich darüber klar zu werden, wie ich mir die Reise
-vorstelle und ob die anderen Mitglieder meine Vorstellungen teilen oder
-vielleicht ganz andere Vorstellungen haben, was völlig okay ist. Es
-könnte gut sein, voneinander zu wissen:
-
--   Was sollten meine Reisebegleiter über mich wissen?
-
--   Welche Fragen habe ich an meine Reisebegleiter?
-
-Weitere mögliche Aspekte:
-
--   Worauf freue ich mich bei der Reise? Wie wichtig nehme ich diese
-    Reise?
-
--   Habe ich eine Sorge? Welche?
-
--   Können persönliche Umstände zu einem Abbruch meiner Reise führen?
-
--   Wie wahrscheinlich ist es, dass ich mich auf die jeweiligen
-    Zwischenziele der Reise vorbereiten kann?
-
--   Kann ich regelmäßig und pünktlich zum wöchentlichen Circle-Treffen
-    kommen? Wie wahrscheinlich ist es, dass ich den Termin absagen muss?
-
--   Welche Kompromisse bin ich bereit einzugehen?
+### Erwartungen *(10 Minuten)*
 
 **In Stille: Reflektiere für dich** (mach dir ggfs. Notizen)**: *(2
 Minuten)***
 
-Tauscht euch dazu aus. Reihum:
+Geht in eure Gruppen und tauscht euch dazu aus. Reihum:
 
 -   **“Das sind meine Vorstellungen und Wünsche für diese Lernreise mit
     Euch?“*(4 Min.)***
 
-Vielleicht übe hier einen Aspekt der Achtsamkeit: “urteilsfrei”, “nicht
-wertend”: Versuche, Deine Vorstellungen und Wünsche authentisch zu
-schildern. Sie können weder richtig noch falsch sein. Es sind Deine, Du
-musst sie nicht beweisen.
+Vielleicht übe hier einen Aspekt der Achtsamkeit: “urteilsfrei”, “nicht wertend”: Versuche, Deine Vorstellungen und Wünsche authentisch zu schildern. Sie können weder richtig noch falsch sein. Es sind Deine, Du musst sie nicht beweisen.
 
-Als Zuhörer versuche, die Vorstellungen und Wünsche aus der Perspektive
-Deines Mitreisenden zu sehen und empathisch wahrzunehmen. Versuche, Dir
-nicht die Frage nach dem Warum zu stellen: es wird wohl Gründe geben …
-Höre einfach zu, stelle nur Verständnisfragen. Gelegenheiten zur Klärung
-gibt’s später ...
+Als Zuhörer versuche, die Vorstellungen und Wünsche aus der Perspektive Deines Mitreisenden zu sehen und empathisch wahrzunehmen. Versuche, Dir nicht die Frage nach dem Warum zu stellen: es wird wohl Gründe geben … Höre einfach zu, ohne zu kommentieren.
 
 **In Stille: Reflektiere für Dich** (mach dir ggfs. Notizen)**: *(1
 Minute)***
@@ -152,15 +82,7 @@ Minute)***
 -   Wie ging es mir als *Zuhörer*? Konnte ich mich “einfühlen”? Was gilt
     es zu klären?
 
-### Erfahrungsaustausch *(10 Minuten)*
-
--   Wie ging es Dir in der Übung?
-
--   Wie hat es sich angefühlt?
-
--   Was ist Dir aufgefallen? Was hat Dich überrascht?
-
-### Was nehme ich mir vor *(10 Minuten)*
+### Was nehme ich mir vor *(5 Minuten)*
 
 Vielleicht magst Du Dir innerlich bewusst machen, ob Du Dich selbst
 “verpflichten” möchtest, diese Gruppenreise durchzuführen und das auch
@@ -169,8 +91,6 @@ mit der Gruppe teilen.
 ### Check-out *(5 Minuten)*
 
 -   Wie geht es Dir jetzt? Ein paar Worte genügen …
-
--   Möchtest Du die Lernreise durchführen?
 
 -   Was nimmst Du von heute mit? Was hat Dich besonders beeindruckt?
 
@@ -187,6 +107,7 @@ auf
 
 **Wenn Du noch etwas Zeit hast:**
 
+-   Der Meditationssitz (siehe Dateien im Teams Kanal Allgemein)
 -   Week 0: a best practice for effective Working Out Loud Circles -&gt; https://www.linkedin.com/pulse/week-0-best-practice-effective-working-out-loud-circles-julia-weber
 
 **Wenn Du mehr Zeit hast:**

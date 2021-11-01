@@ -95,7 +95,9 @@ Was wünscht Du Dir von diesem Kurs? Warum machst Du ihn?
 
 Macht (gemeinsam) die **Meditation**:
 
-**Audio-Datei [Achtsamkeit42_Woche01_Atem-Ausrichtung_13min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche01_Atem-Ausrichtung_13min.mp3)**
+**Audio-Datei 1 [Achtsamkeit42_Woche01_Atem-Ausrichtung_13min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche01_Atem-Ausrichtung_13min.mp3)**
+
+**Audio-Datei 2 [Happy Brain Tag 1 – Atmung](https://gs1germany.sharepoint.com/:u:/s/HappyBrain/ES14mOEvyhVFqZkMWdWraVkBEpEW1gjjoP1autnmQpPbkA)**
 
 
 ### Erfahrungsaustausch *(10 Minuten)*
