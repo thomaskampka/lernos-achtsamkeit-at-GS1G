@@ -98,7 +98,11 @@ Gedanken. Und auch das Beobachten, Bewerten und die Ablenkungen.
 Beobachte bei der Übung immer wieder, woran Du gerade denkst, was in Dir
 vorgeht.
 
-**Audio-Datei [Achtsamkeit42_Woche03_Atem-Ablenkungen_14min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche03_Atem-Ablenkungen_14min.mp3)**
+**Audio-Datei 1 [Achtsamkeit42_Woche03_Atem-Ablenkungen_14min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche03_Atem-Ablenkungen_14min.mp3)**
+
+**Audio-Datei 2** [Happy Brain Tag 9 – Gedanken beobachten](https://gs1germany.sharepoint.com/sites/HappyBrain/Freigegebene Dokumente/Audio Snippets/Tag-9.mp3) **(9min)** 
+
+**Audio-Datei 3** [Happy Brain Tag 10 – Was denke ich eigentlich](https://gs1germany.sharepoint.com/sites/HappyBrain/Freigegebene Dokumente/Audio Snippets/Tag-10.mp3) **(10min)** 
 
 ### Erfahrungsaustausch *(10 Minuten)*
 

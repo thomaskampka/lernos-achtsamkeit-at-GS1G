@@ -26,7 +26,7 @@ In dieser Woche geht es um das Fühlen Deiner Erfahrung im Körper.
 
 -   Wie geht es Dir gerade?
 
--   Was fühlst Du gerade in Deinem Körper ?
+-   Was fühlst Du gerade in Deinem Körper?
 
 -   Was beschäftigt Dich im Augenblick?
 
@@ -87,7 +87,11 @@ Und nun führe die Übung mit Hilfe der gesprochenen Anleitung für Dich
 durch. Es geht im ersten Schritt um die Wahrnehmung dessen was sich
 zeigt und wie es in Dir entsteht. 
 
-**Audio-Datei [Achtsamkeit42_Woche02_Bodyscan_14min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche02_Bodyscan_14min.mp3)**
+**Audio-Datei 1 [Achtsamkeit42_Woche02_Bodyscan_14min.mp3](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche02_Bodyscan_14min.mp3)**
+
+**Audio-Datei 2** [Happy Brain Tag 3 – Body Scan 1 ](https://gs1germany.sharepoint.com/:u:/s/HappyBrain/EWQg1vlqo_JFmETS34umWmABx4B5OwK0K7NlNmA9ipCcvA) **(10min)**
+
+**Audio-Datei 3** [Happy Brain Tag 8 – Body Scan ](https://gs1germany.sharepoint.com/sites/HappyBrain/Freigegebene Dokumente/Audio Snippets/Tag-8.mp3)2 **(10min)**
 
 Der sogenannte Körperscan (Bodyscan) ist als Einleitung von
 Achtsamkeitsübungen hilfreich unter folgenden Aspekten:
@@ -161,10 +165,14 @@ daran zu erinnern.
 
 ### BILD / Zitat der Woche: “Lieben was ist”
 
+> Egal wo ich gerade stehe in meinem Leben, vertraue ich darauf, dass es genau richtig ist. (unbekannt)
+
 > Erfahrung ist eine verstandene Wahrnehmung. (Immanuel Kant)
 
 > Es gibt nichts zu entdecken, nichts zu erfinden, einzig und alleine eine
 > sich wandelnde Wahrnehmung. (Andreas Herteux)
+
+
 
 ![](./images/image8.png)
 Bild von sasint auf
