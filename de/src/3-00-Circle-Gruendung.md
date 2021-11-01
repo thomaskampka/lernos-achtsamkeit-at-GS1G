@@ -2,25 +2,18 @@
 
 ![](./images/OrangeLine.png)
 
-## Woche 0: Der Circle gründet sich
+## Woche 0: Der Circle gründet sich (to be changed!)
 
 Im ersten Treffen finden sich die Menschen, die diese Reise gemeinsam
 unternehmen wollen. Die Agenda:
 
 -   **Check-in:** Herzlich willkommen! *(5 Minuten)*
-
 -   **Austausch / Reflexion:** in der Gruppe *(10 Minuten)*
-
 -   **Thema:** Grundlagen und Fragen? *(25 Minuten)*
-
 -   **Übung:** Meine Wünsche für die Reise *(25 Minuten)*
-
 -   **Erfahrungsaustausch** Wie ging es Dir in der Übung *(10 Minuten)*
-
 -   **Was nehme ich mir vor:** gemeinsame Planung *(10 Minuten)*
-
 -   **Check-out:** Das nächste Treffen bestätigen. *(5 Minuten)*
-
 -   **Bild / Zitat der Woche** und **weiterführende Links**
 
 ### Check-In: Ankommen *(5 Minuten)*
