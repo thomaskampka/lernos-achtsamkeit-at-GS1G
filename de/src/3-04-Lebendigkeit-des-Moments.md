@@ -182,7 +182,7 @@ Bild von sue\_v67auf
 -   bewusst ein Kompliment geben ...
 -   Rosinen - Übung von FuereinebessereWelt (4 Minuten):
     [https://www.youtube.com/watch?v=kvbha0IyoH0](https://www.youtube.com/watch?v=kvbha0IyoH0)
--   PDF-Dokument zur Rosinenübung / Mandarinenübung ([LINK](http://www.arbeitundgesundheit.eu/media/arbeitswelt2020/texte/schulvortragreinhardt/Wahrnehmungs-Typ-Analyse.pdf) Seiten 1-3)
+-   PDF-Dokument zur Rosinenübung / Mandarinenübung ([LINK]([https://teams.microsoft.com/l/file/B8F280FE-E3A9-451C-8857-E1D5E95F9980?tenantId=6710606f-2ff0-4d60-867f-eb949dc5bfba&fileType=pdf&objectUrl=https%3A%2F%2Fgs1germany.sharepoint.com%2Fsites%2FRoadToHappiness%2FFreigegebene%20Dokumente%2FGeneral%2FR2H%20-%20Lesematerial%20f%C3%BCr%20die%20Rosinen%C3%BCbung.pdf&baseUrl=https%3A%2F%2Fgs1germany.sharepoint.com%2Fsites%2FRoadToHappiness&serviceName=teams&threadId=19:3w3AGeKZWirDCzyfRfXHOeDHrvFgigFMcslU9np0mtM1@thread.tacv2&groupId=3dcc2423-52e5-4f0b-90b0-abf1edc264fb](https://teams.microsoft.com/l/file/B8F280FE-E3A9-451C-8857-E1D5E95F9980?tenantId=6710606f-2ff0-4d60-867f-eb949dc5bfba&fileType=pdf&objectUrl=https%3A%2F%2Fgs1germany.sharepoint.com%2Fsites%2FRoadToHappiness%2FFreigegebene Dokumente%2FGeneral%2FR2H - Lesematerial für die Rosinenübung.pdf&baseUrl=https%3A%2F%2Fgs1germany.sharepoint.com%2Fsites%2FRoadToHappiness&serviceName=teams&threadId=19:3w3AGeKZWirDCzyfRfXHOeDHrvFgigFMcslU9np0mtM1@thread.tacv2&groupId=3dcc2423-52e5-4f0b-90b0-abf1edc264fb)) Seiten 1-3)
 
 **Wenn Du mehr Zeit hast:**
 
