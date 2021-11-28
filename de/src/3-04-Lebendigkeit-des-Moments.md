@@ -176,15 +176,13 @@ Bild von sue\_v67auf
 **Wenn Du noch etwas Zeit hast:**
 
 -   bewusst kochen / bewusst essen / bewusst abräumen
-
 -   bewusst musik hören (Augen schließen und hinsetzen) =&gt; was löst
     es in Dir aus? =&gt; bekanntes Stück und unbekanntes Stück =&gt; Was
     ist für Dich der Unterschied?
-
 -   bewusst ein Kompliment geben ...
-
 -   Rosinen - Übung von FuereinebessereWelt (4 Minuten):
     [https://www.youtube.com/watch?v=kvbha0IyoH0](https://www.youtube.com/watch?v=kvbha0IyoH0)
+-   PDF-Dokument zur Rosinenübung / Mandarinenübung ([LINK](http://www.arbeitundgesundheit.eu/media/arbeitswelt2020/texte/schulvortragreinhardt/Wahrnehmungs-Typ-Analyse.pdf) Seiten 1-3)
 
 **Wenn Du mehr Zeit hast:**
 

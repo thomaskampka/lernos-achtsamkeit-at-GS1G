@@ -119,11 +119,15 @@ Zeit, Dich in das Geschriebene, Satz für Satz hineinzufühlen.
 
 ### Übung: Geh-Meditation *(15 Minuten)*
 
-Schaue das Video mit Nicole Appel (Dauer ca. 5 Minuten) an und übe
-anschließend für 10 Minuten für Dich. Achte dabei auf Deine
-Wahrnehmungen und Gefühle. Alles was entsteht, ist wertvoll.
+1) Lies dir kurz Seite 4 in der PDF an ([LINK](http://www.arbeitundgesundheit.eu/media/arbeitswelt2020/texte/schulvortragreinhardt/Wahrnehmungs-Typ-Analyse.pdf) Seite 4)
+2) Schaue das Youtube-Video (Dauer ca. 4 Minuten) an und übe
+   anschließend für 10 Minuten für Dich. 
+   * Achte dabei auf Deine
+     Wahrnehmungen und Gefühle. Alles was entsteht, ist wertvoll.
+   * Am besten barfuß, zumindest ohne Schuhe! 
+   * Versuche den Atem mit zu integrieren. Wenn ihr z.B. rechts startet, durch die Nase einatmen, dann linker Fuß durch den Mund ausatmen. 
 
-**Video-Datei [Achtsamkeit42_Woche05_Gehmeditation_5min.mp4](https://archive.org/download/Achtsamkeit-42/Achtsamkeit42_Woche05_Gehmeditation_5min.mp4)**
+**Video-Datei [Anleitung zur Gehmeditation](https://www.youtube.com/watch?v=9tzgKH2-myM)
 
 ### Erfahrungsaustausch *(10 Minuten)*
 
