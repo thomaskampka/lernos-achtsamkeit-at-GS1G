@@ -119,15 +119,17 @@ Zeit, Dich in das Geschriebene, Satz für Satz hineinzufühlen.
 
 ### Übung: Geh-Meditation *(15 Minuten)*
 
-1) Lies dir kurz Seite 4 in der PDF an ([LINK](http://www.arbeitundgesundheit.eu/media/arbeitswelt2020/texte/schulvortragreinhardt/Wahrnehmungs-Typ-Analyse.pdf) Seite 4)
-2) Schaue das Youtube-Video (Dauer ca. 4 Minuten) an und übe
-   anschließend für 10 Minuten für Dich. 
-   * Achte dabei auf Deine
-     Wahrnehmungen und Gefühle. Alles was entsteht, ist wertvoll.
-   * Am besten barfuß, zumindest ohne Schuhe! 
-   * Versuche den Atem mit zu integrieren. Wenn ihr z.B. rechts startet, durch die Nase einatmen, dann linker Fuß durch den Mund ausatmen. 
+Lies dir kurz Seite 4 in der PDF an ([LINK]([https://teams.microsoft.com/l/file/B8F280FE-E3A9-451C-8857-E1D5E95F9980?tenantId=6710606f-2ff0-4d60-867f-eb949dc5bfba&fileType=pdf&objectUrl=https%3A%2F%2Fgs1germany.sharepoint.com%2Fsites%2FRoadToHappiness%2FFreigegebene%20Dokumente%2FGeneral%2FR2H%20-%20Lesematerial%20f%C3%BCr%20die%20Rosinen%C3%BCbung.pdf&baseUrl=https%3A%2F%2Fgs1germany.sharepoint.com%2Fsites%2FRoadToHappiness&serviceName=teams&threadId=19:3w3AGeKZWirDCzyfRfXHOeDHrvFgigFMcslU9np0mtM1@thread.tacv2&groupId=3dcc2423-52e5-4f0b-90b0-abf1edc264fb](https://teams.microsoft.com/l/file/B8F280FE-E3A9-451C-8857-E1D5E95F9980?tenantId=6710606f-2ff0-4d60-867f-eb949dc5bfba&fileType=pdf&objectUrl=https%3A%2F%2Fgs1germany.sharepoint.com%2Fsites%2FRoadToHappiness%2FFreigegebene Dokumente%2FGeneral%2FR2H - Lesematerial für die Rosinenübung.pdf&baseUrl=https%3A%2F%2Fgs1germany.sharepoint.com%2Fsites%2FRoadToHappiness&serviceName=teams&threadId=19:3w3AGeKZWirDCzyfRfXHOeDHrvFgigFMcslU9np0mtM1@thread.tacv2&groupId=3dcc2423-52e5-4f0b-90b0-abf1edc264fb)) Seite 4)
 
-**Video-Datei [Anleitung zur Gehmeditation](https://www.youtube.com/watch?v=9tzgKH2-myM)
+Schaue das Youtube-Video (Dauer ca. 4 Minuten) an und übe
+anschließend für 10 Minuten für Dich. 
+
+- Achte dabei auf Deine
+  Wahrnehmungen und Gefühle. Alles was entsteht, ist wertvoll.
+- Am besten barfuß, zumindest ohne Schuhe! 
+- Versuche den Atem mit zu integrieren. Wenn ihr z.B. rechts startet, durch die Nase einatmen, dann linker Fuß durch den Mund ausatmen. 
+
+**Video-Datei** [Anleitung zur Gehmeditation](https://www.youtube.com/watch?v=9tzgKH2-myM) (Youtube Link)
 
 ### Erfahrungsaustausch *(10 Minuten)*
 
