@@ -89,6 +89,8 @@ darauf zu richten, was bei Dir spezielle Gefühle auslöst.
 
 ### Übung: Trigger fühlen *(15 Minuten)*
 
+Wir machen die Übung hier jetzt einmal zum Kennenlernen. Es ist aber ratsam, sie auch in aller Ruhe, alleine zu Hause nochmal zu machen, um sich besser und tiefer zu reflektieren.
+
 Nimm dir Papier und Stift zur Hand.
 
 Höre dir das Audio 
