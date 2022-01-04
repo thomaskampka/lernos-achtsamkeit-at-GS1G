@@ -7,19 +7,13 @@
 In dieser Woche geht es um Rückschau und Reflexion
 
 -   **Check-In:** Herzlich willkommen! *(5 Minuten)*
-
 -   **Austausch / Reflexion:** in der Gruppe *(10 Minuten)*
-
--   **Thema:** Checkup und Reflexion *(15 Minuten)*
-
+-   **Thema:** Checkup und Reflexion *(10 Minuten)*
+-   **Vor-Übung:** Braindump-Journaling *(5 Minuten)*
 -   **Übung:** Journaling *(10 Minuten)*
-
 -   **Erfahrungsaustausch:** Wie ging es mir in der Übung *(10 Minuten)*
-
 -   **Was nehme ich mir vor** *(5 Minuten)*
-
 -   **Check-out** *(5 Minuten)*
-
 -   **Bild / Zitat der Woche und weiterführende Links**
 
 ### Check-In *(5 Minuten)*
@@ -41,7 +35,7 @@ klar.
 
 -   Was hast Du daraus über Dich gelernt?
 
-### Thema: Checkup und Reflexion *(15 Minuten)*
+### Thema: Checkup und Reflexion *(10 Minuten)*
 
 Bisher ging es in den letzten Wochen des Kurses um folgende Themen:
 
@@ -77,6 +71,8 @@ Eine kleine Übung zum Start. Schreibe kurz auf:
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 > 
 Stellt die Ergebnisse in einem kurzen Austausch nebeneinander (2 Minuten).
+
+### Vor-Übung: Braindump Journaling *(5 Minuten)*
 
 Eine Methode, sich Fragen zu stellen und Antworten zu erhalten, ist das
 sogenannte **Journaling**. Beim Journaling geht es darum, Gedanken fließen

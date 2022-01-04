@@ -87,8 +87,8 @@ wissen, wo das Gesagte in dem Moment genau her kommt …
 =&gt; Jeder redet 2 Minuten. Alle nacheinander. Erzähle einfach, was Dir
 in den Sinn kommt oder auch vom letzten Urlaub, der letzten Feier, der
 letzten Achtsamkeits- Übung .... (der Inhalt spielt keine große Rolle).
-Die Anderen hören achtsam zu.  
-Achte beim Zuhören darauf, ganz bei dem zu sein, was Du hörst und was es
+Die Anderen hören achtsam zu. 
+Achte beim Zuhören darauf, ganz bei demzweit  zu sein, was Du hörst und was es
 in Dir auslöst, welche Körperempfindungen dabei entstehen.
 
 Wenn Du an der Reihe bist, komme erst einmal bei Dir an, atme tief
@@ -99,17 +99,13 @@ redest. Spüre Deine körperlichen und emotionalen Empfindungen.
 Dann kommt ein kurzer Austausch darüber, wie es jedem ging. (5 Min.,
 jeder ca 1 Min.).
 
-Dann noch eine zweite Runde in der gleichen Weise. D.h. die nächste
-erzählt und nimmt sich wahr. Der Andere hört zu und nimmt sich wahr.
-Diesmal zu zweit. Wenn ihr eine ungerade Zahl seid, dann macht ein 3-er
-Setting.
+Dann noch eine zweite Runde, diesmal zu Zweit und mit Rückspiegelung des Gesagten, d.h. die nächste erzählt und nimmt sich wahr. Der Andere hört nur zu, nimmt sich wahr und fasst dann in eigenen Worten zusammen, was bei ihm inhaltlich angekommen ist (ohne Bewertung oder Nachfragen). Wenn ihr eine ungerade Anzahl seid, dann macht, dann macht ein 3-er Setting.
 
-Tipp: Bei Online Meetings das zweier-Setting entsprechend
-organisieren. Z.B. eine feste Zeit ausmachen (z.B. 5 Minuten). Die
-Zweier - Teams gehen in separate Besprechungen. Bei ungerader
-Teilnehmerzahl, könnt ihr eine dreier- Runde machen. Wenn einzelne sich
-verspäten, dann ggf. zurück rufen. Eine Videoaufnahme hilft bei der
-Übung.
+Tipp: Bei Online Meetings das Zweier-Setting entsprechend
+organisieren und eine feste Zeit ausmachen (z.B. 5 Minuten). Die
+Zweier-Teams gehen in separate Besprechungen. Bei ungerader
+Teilnehmerzahl, könnt ihr eine Dreier-Runde machen. Wenn einzelne sich
+verspäten, dann ggf. zurück rufen. 
 
 ### Erfahrungsaustausch *(10 Minuten)*
 
